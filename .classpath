@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Arraylist/src"/>
+	<classpathentry kind="src" path="droid1/src"/>
+	<classpathentry kind="src" path="fractal/src/Fractal"/>
+	<classpathentry kind="src" path="hashmap/src"/>
+	<classpathentry kind="src" path="Hello World/src"/>
+	<classpathentry kind="src" path="jeffs/src"/>
+	<classpathentry kind="src" path="linkedlist/src"/>
+	<classpathentry kind="src" path="objectsets/src"/>
+	<classpathentry kind="src" path="passing/src"/>
+	<classpathentry kind="src" path="practice/src"/>
+	<classpathentry kind="src" path="scanner/src"/>
+	<classpathentry kind="src" path="screenshot/src"/>
+	<classpathentry kind="src" path="sets/src"/>
+	<classpathentry kind="src" path="towerofhanoi/src"/>
+	<classpathentry kind="src" path="tutorial 12/src"/>
+	<classpathentry kind="src" path="tutorial 32/src"/>
+	<classpathentry kind="src" path="tutorial10/src"/>
+	<classpathentry kind="src" path="tutorial11/src"/>
+	<classpathentry kind="src" path="tutorial13/src"/>
+	<classpathentry kind="src" path="tutorial19/src"/>
+	<classpathentry kind="src" path="tutorial20/src"/>
+	<classpathentry kind="src" path="tutorial21/src"/>
+	<classpathentry kind="src" path="tutorial22/src"/>
+	<classpathentry kind="src" path="tutorial23/src"/>
+	<classpathentry kind="src" path="tutorial24/src"/>
+	<classpathentry kind="src" path="tutorial25/src"/>
+	<classpathentry kind="src" path="tutorial26/src"/>
+	<classpathentry kind="src" path="tutorial27/src"/>
+	<classpathentry kind="src" path="tutorial28/src"/>
+	<classpathentry kind="src" path="tutorial29/src"/>
+	<classpathentry kind="src" path="tutorial3/src"/>
+	<classpathentry kind="src" path="tutorial30/src"/>
+	<classpathentry kind="src" path="tutorial31/src"/>
+	<classpathentry kind="src" path="tutorial32/src"/>
+	<classpathentry kind="src" path="tutorial33/src"/>
+	<classpathentry kind="src" path="tutorial34/src"/>
+	<classpathentry kind="src" path="tutorial35/src"/>
+	<classpathentry kind="src" path="tutorial4/src"/>
+	<classpathentry kind="src" path="tutorial5/src"/>
+	<classpathentry kind="src" path="tutorial58/src"/>
+	<classpathentry kind="src" path="tutorial59/src"/>
+	<classpathentry kind="src" path="tutorial6/src"/>
+	<classpathentry kind="src" path="tutorial60/src"/>
+	<classpathentry kind="src" path="tutorial61/src"/>
+	<classpathentry kind="src" path="tutorial62/src"/>
+	<classpathentry kind="src" path="tutorial63/src"/>
+	<classpathentry kind="src" path="tutorial7/src"/>
+	<classpathentry kind="src" path="tutorial8/src"/>
+	<classpathentry kind="src" path="tutorial9/src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Arraylist/bin"/>
+</classpath>
